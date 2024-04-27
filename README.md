@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://mikeshaggy.io">
+  <a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR2cHcwNnR2dWJ4ODNocDh6YnNnZ3Uzd3ZvNzBqczc5Zng4N2hocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" alt="MasterHead">
   </a>
 </div>
