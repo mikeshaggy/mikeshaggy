@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeshaggy&label=Profile%20views&color=00a3d7&style=flat" alt="mikeshaggy" /></p>
 
-- 🔭 I’m currently working on [Hotel Management System](https://github.com/mikeshaggy/HotelManagementSystem)
+- 🔭 I’m currently working on GmailCleaner
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **michalbagan@icloud.com**
 
