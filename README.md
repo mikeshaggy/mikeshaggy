@@ -13,7 +13,7 @@
 
 - 🤩 I'm interested in Backend development with Java
 
-- 🔭 I’m currently working on GmailCleaner
+- 🔭 I’m currently working on [Hotel Management System](https://github.com/mikeshaggy/HotelManagementSystem)
 
 - 🌱 I’m currently learning **MongoDB**
 
