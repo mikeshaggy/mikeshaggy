@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Michał</h1>
+<h1 align="center">Hi, I'm Michał</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdybThpbHJhaHB4ZDczMTI5eXFycTVoZWQyZjdpdGp1eDhjMGxnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
