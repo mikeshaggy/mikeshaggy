@@ -34,9 +34,9 @@
 
 ---
 
-<img height="50px" src="https://img.shields.io/badge/Tech_Stack-36bcf7?logo=googlesearchconsole&logoColor=white&style=for-the-badge" alt="Tech Stack" />
-
 <img align="right" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="coding_gif">
+
+<img height="50px" src="https://img.shields.io/badge/Tech_Stack-36bcf7?logo=googlesearchconsole&logoColor=white&style=for-the-badge" alt="Tech Stack" />
 
 ### 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-ff8a1e?style=for-the-badge&logo=openjdk&logoColor=white)
