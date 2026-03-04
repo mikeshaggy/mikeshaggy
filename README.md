@@ -21,7 +21,7 @@
 
 
 
-- 🔭 Currently building [Furbook](https://github.com/mikeshaggy/furbook-web-app) - a social app for pet lovers
+- 🔭 Currently building [Savix](https://github.com/mikeshaggy/savix-web-app) - personal finance management app
 - 🎨 Not a frontend enthusiast, but I make sure my apps don’t look like a mess
 - 🛠️ Always cooking up side projects to stay sharp and curious
 - 💻 I enjoy crafting clean and robust REST APIs with Spring Boot
